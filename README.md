@@ -10,7 +10,7 @@ Hi, I’m John!
 
 - 📫 How to reach me **jross3511@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/johnross125307237</h3>
 <p align="left">
 </p>
 
