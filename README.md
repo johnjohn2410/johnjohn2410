@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm John!</h1>
-<h3 align="center">A passionate Computer Science student at UTRGV</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Hi!+Im+John%2C+A++passionate+computer+science+student+and+software+engineer!)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnjohn2410&label=Profile%20views&color=0e75b6&style=flat" alt="johnjohn2410" /> </p>
 
