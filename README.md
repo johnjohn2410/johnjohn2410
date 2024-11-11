@@ -1,4 +1,3 @@
-Hi, I’m John!
 <h1 align="center">Hi 👋, I'm John!</h1>
 <h3 align="center">A passionate Computer Science student at UTRGV</h3>
 
